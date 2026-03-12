@@ -127,17 +127,13 @@ app/
 - Status badges and icons
 - Mobile-friendly layout
 
-## 📚 Documentation
-- See `README_EXAM.txt` for complete documentation
-- See `QUICK-START.txt` for setup instructions
 
 ## 👨‍💻 Developer
-**Name:** [Your Name]
+**Name:** Nowell Terrenal
 **Course:** Web Systems & Technologies
 **Project:** CodeIgniter 4 CRUD Practical Examination
 
 ## 📄 License
 This project is created for educational purposes.
 
----
-**Note:** This is an examination project demonstrating CodeIgniter 4 skills.
+
