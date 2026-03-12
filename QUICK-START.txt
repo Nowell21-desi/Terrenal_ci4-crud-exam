@@ -1,0 +1,60 @@
+================================================================================
+QUICK SETUP GUIDE - READY IN 5 MINUTES!
+================================================================================
+
+YOUR PROJECT IS HERE: C:\xampp\htdocs\ci4-exam-final\CodeIgniter4-4.3.8
+
+STEP 1: SETUP DATABASE (2 minutes)
+-----------------------------------
+1. Start XAMPP - Start Apache and MySQL
+2. Open browser: http://localhost/phpmyadmin
+3. Click "Import" tab
+4. Choose file: C:\xampp\htdocs\ci4-exam-final\CodeIgniter4-4.3.8\database_setup.sql
+5. Click "Go"
+
+STEP 2: RUN THE APPLICATION (1 minute)
+---------------------------------------
+1. Open PowerShell or CMD
+2. Run these commands:
+
+cd C:\xampp\htdocs\ci4-exam-final\CodeIgniter4-4.3.8
+C:\xampp\php\php.exe spark serve
+
+3. Open browser: http://localhost:8080
+
+STEP 3: LOGIN
+-------------
+Email: admin@example.com
+Password: password123
+
+DONE! Your application is running!
+
+================================================================================
+FOR GITHUB SUBMISSION:
+================================================================================
+
+1. Open VS Code in this folder:
+   C:\xampp\htdocs\ci4-exam-final\CodeIgniter4-4.3.8
+
+2. Initialize Git:
+   git init
+   git add .
+   git commit -m "CI4 CRUD Exam Project"
+
+3. Create GitHub repo and push:
+   git remote add origin YOUR_GITHUB_URL
+   git push -u origin main
+
+4. Submit the GitHub link to Google Classroom
+
+================================================================================
+TEST CREDENTIALS:
+================================================================================
+Email: admin@example.com
+Password: password123
+
+Database: ci4_crud_exam
+Username: root
+Password: (empty)
+
+================================================================================
